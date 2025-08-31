@@ -1,6 +1,6 @@
 # Hi There!
 
-你可以在 repository 中查找几乎所有的 astrbot 插件仓库
+你可以在 repositories 中查找几乎所有的 astrbot 插件仓库
 
 ## 哪些 repository 没有被备份?
 
