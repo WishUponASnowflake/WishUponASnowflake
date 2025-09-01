@@ -15,3 +15,5 @@
 - 在 [此处](https://github.com/Larch-C/fork-repo/actions/workflows/fork.yml) 你可以看见运行记录
 
 ## 综上，一切都遵循开源协议，确保合法合规
+
+如果觉得有问题，请在 [fork-repo 仓库](https://github.com/Larch-C/fork-repo/issues) 里面提交新 issue 来告知我。
